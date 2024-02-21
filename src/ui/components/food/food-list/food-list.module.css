@@ -1,0 +1,8 @@
+.food-list{
+    width: 100%;
+}
+.list-open{
+    height: 11em;
+    overflow: scroll;
+    overflow-x: hidden;
+}
