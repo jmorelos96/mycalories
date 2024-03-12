@@ -1,0 +1,404 @@
+{
+    "foods": [
+        {
+            "id":1,
+            "name": "Spaghetti",
+            "calories": 220,
+            "nutrients": {
+                "protein": "8g",
+                "fat": "1g",
+                "carbohydrates": "43g",
+                "fiber": "2g",
+                "sodium": "1mg",
+                "sugar": "2g",
+                "vitamins": {
+                    "A": "2%",
+                    "C": "0%",
+                    "D": "0%",
+                    "E": "0%",
+                    "K": "1%"
+                }
+            }
+        },
+        {
+            "id":2,
+            "name": "Scrambled Eggs",
+            "calories": 140,
+            "nutrients": {
+                "protein": "13g",
+                "fat": "9g",
+                "carbohydrates": "1g",
+                "fiber": "0g",
+                "sodium": "320mg",
+                "sugar": "1g",
+                "vitamins": {
+                    "A": "10%",
+                    "C": "2%",
+                    "D": "6%",
+                    "E": "2%",
+                    "K": "0%"
+                }
+            }
+        },
+        {
+            "id":3,
+            "name": "Roast Chicken",
+            "calories": 165,
+            "nutrients": {
+                "protein": "25g",
+                "fat": "6g",
+                "carbohydrates": "0g",
+                "fiber": "0g",
+                "sodium": "70mg",
+                "sugar": "0g",
+                "vitamins": {
+                    "A": "4%",
+                    "C": "0%",
+                    "D": "2%",
+                    "E": "1%",
+                    "K": "0%"
+                }
+            }
+        },
+        {
+            "id":4,
+            "name": "Grilled Salmon",
+            "calories": 200,
+            "nutrients": {
+                "protein": "22g",
+                "fat": "12g",
+                "carbohydrates": "0g",
+                "fiber": "0g",
+                "sodium": "60mg",
+                "sugar": "0g",
+                "vitamins": {
+                    "A": "6%",
+                    "C": "2%",
+                    "D": "10%",
+                    "E": "4%",
+                    "K": "1%"
+                }
+            }
+        },
+        {
+            "id":5,
+            "name": "Caesar Salad",
+            "calories": 180,
+            "nutrients": {
+                "protein": "5g",
+                "fat": "14g",
+                "carbohydrates": "8g",
+                "fiber": "3g",
+                "sodium": "380mg",
+                "sugar": "2g",
+                "vitamins": {
+                    "A": "90%",
+                    "C": "15%",
+                    "D": "0%",
+                    "E": "8%",
+                    "K": "120%"
+                }
+            }
+        },
+        {
+            "id":6,
+            "name": "Tuna Sandwich",
+            "calories": 320,
+            "nutrients": {
+                "protein": "25g",
+                "fat": "12g",
+                "carbohydrates": "28g",
+                "fiber": "5g",
+                "sodium": "680mg",
+                "sugar": "4g",
+                "vitamins": {
+                    "A": "4%",
+                    "C": "6%",
+                    "D": "2%",
+                    "E": "6%",
+                    "K": "2%"
+                }
+            }
+        },
+        {
+            "id":7,
+            "name": "Beef Burger",
+            "calories": 350,
+            "nutrients": {
+                "protein": "20g",
+                "fat": "22g",
+                "carbohydrates": "20g",
+                "fiber": "2g",
+                "sodium": "550mg",
+                "sugar": "3g",
+                "vitamins": {
+                    "A": "8%",
+                    "C": "4%",
+                    "D": "0%",
+                    "E": "2%",
+                    "K": "0%"
+                }
+            }
+        },
+        {
+            "id":8,
+            "name": "Vegetable Stir Fry",
+            "calories": 200,
+            "nutrients": {
+                "protein": "6g",
+                "fat": "10g",
+                "carbohydrates": "24g",
+                "fiber": "6g",
+                "sodium": "480mg",
+                "sugar": "8g",
+                "vitamins": {
+                    "A": "70%",
+                    "C": "40%",
+                    "D": "0%",
+                    "E": "15%",
+                    "K": "80%"
+                }
+            }
+        },
+        {
+            "id":9,
+            "name": "Mushroom Risotto",
+            "calories": 280,
+            "nutrients": {
+                "protein": "7g",
+                "fat": "8g",
+                "carbohydrates": "45g",
+                "fiber": "3g",
+                "sodium": "450mg",
+                "sugar": "3g",
+                "vitamins": {
+                    "A": "15%",
+                    "C": "8%",
+                    "D": "0%",
+                    "E": "10%",
+                    "K": "25%"
+                }
+            }
+        },
+        {
+            "id":10,
+            "name": "Shrimp Scampi",
+            "calories": 250,
+            "nutrients": {
+                "protein": "20g",
+                "fat": "16g",
+                "carbohydrates": "10g",
+                "fiber": "1g",
+                "sodium": "680mg",
+                "sugar": "2g",
+                "vitamins": {
+                    "A": "20%",
+                    "C": "6%",
+                    "D": "4%",
+                    "E": "6%",
+                    "K": "2%"
+                }
+            }
+        },
+        {
+            "id":11,
+            "name": "Cheese Pizza",
+            "calories": 300,
+            "nutrients": {
+                "protein": "15g",
+                "fat": "12g",
+                "carbohydrates": "32g",
+                "fiber": "2g",
+                "sodium": "600mg",
+                "sugar": "5g",
+                "vitamins": {
+                    "A": "25%",
+                    "C": "10%",
+                    "D": "0%",
+                    "E": "4%",
+                    "K": "0%"
+                }
+            }
+        },
+        {
+            "id":12,
+            "name": "Pasta Primavera",
+            "calories": 220,
+            "nutrients": {
+                "protein": "10g",
+                "fat": "8g",
+                "carbohydrates": "30g",
+                "fiber": "4g",
+                "sodium": "420mg",
+                "sugar": "6g",
+                "vitamins": {
+                    "A": "40%",
+                    "C": "25%",
+                    "D": "0%",
+                    "E": "6%",
+                    "K": "15%"
+                }
+            }
+        },
+        {
+            "id":13,
+            "name": "Vegetarian Chili",
+            "calories": 180,
+            "nutrients": {
+                "protein": "12g",
+                "fat": "5g",
+                "carbohydrates": "25g",
+                "fiber": "8g",
+                "sodium": "520mg",
+                "sugar": "5g",
+                "vitamins": {
+                    "A": "35%",
+                    "C": "20%",
+                    "D": "0%",
+                    "E": "4%",
+                    "K": "10%"
+                }
+            }
+        },
+        {
+            "id":14,
+            "name": "Fruit Smoothie",
+            "calories": 150,
+            "nutrients": {
+                "protein": "3g",
+                "fat": "1g",
+                "carbohydrates": "35g",
+                "fiber": "5g",
+                "sodium": "20mg",
+                "sugar": "25g",
+                "vitamins": {
+                    "A": "8%",
+                    "C": "120%",
+                    "D": "2%",
+                    "E": "6%",
+                    "K": "10%"
+                }
+            }
+        },
+        {
+            "id":15,
+            "name": "Beef Stir Fry",
+            "calories": 280,
+            "nutrients": {
+                "protein": "18g",
+                "fat": "14g",
+                "carbohydrates": "20g",
+                "fiber": "3g",
+                "sodium": "480mg",
+                "sugar": "6g",
+                "vitamins": {
+                    "A": "25%",
+                    "C": "30%",
+                    "D": "0%",
+                    "E": "8%",
+                    "K": "15%"
+                }
+            }
+        },
+        {
+            "id":16,
+            "name": "Greek Salad",
+            "calories": 160,
+            "nutrients": {
+                "protein": "6g",
+                "fat": "10g",
+                "carbohydrates": "12g",
+                "fiber": "4g",
+                "sodium": "420mg",
+                "sugar": "8g",
+                "vitamins": {
+                    "A": "45%",
+                    "C": "25%",
+                    "D": "0%",
+                    "E": "6%",
+                    "K": "20%"
+                }
+            }
+        },
+        {
+            "id":17,
+            "name": "Fried Rice",
+            "calories": 240,
+            "nutrients": {
+                "protein": "10g",
+                "fat": "8g",
+                "carbohydrates": "35g",
+                "fiber": "2g",
+                "sodium": "680mg",
+                "sugar": "4g",
+                "vitamins": {
+                    "A": "10%",
+                    "C": "6%",
+                    "D": "0%",
+                    "E": "2%",
+                    "K": "4%"
+                }
+            }
+        },
+        {
+            "id":18,
+            "name": "Pancakes",
+            "calories": 180,
+            "nutrients": {
+                "protein": "5g",
+                "fat": "6g",
+                "carbohydrates": "28g",
+                "fiber": "2g",
+                "sodium": "320mg",
+                "sugar": "6g",
+                "vitamins": {
+                    "A": "4%",
+                    "C": "0%",
+                    "D": "2%",
+                    "E": "2%",
+                    "K": "0%"
+                }
+            }
+        },
+        {
+            "id":19,
+            "name": "Apple Pie",
+            "calories": 250,
+            "nutrients": {
+                "protein": "3g",
+                "fat": "12g",
+                "carbohydrates": "35g",
+                "fiber": "4g",
+                "sodium": "200mg",
+                "sugar": "20g",
+                "vitamins": {
+                    "A": "10%",
+                    "C": "8%",
+                    "D": "0%",
+                    "E": "4%",
+                    "K": "2%"
+                }
+            }
+        },
+        {
+            "id":20,
+            "name": "Chocolate Cake",
+            "calories": 350,
+            "nutrients": {
+                "protein": "5g",
+                "fat": "18g",
+                "carbohydrates": "45g",
+                "fiber": "3g",
+                "sodium": "300mg",
+                "sugar": "30g",
+                "vitamins": {
+                    "A": "6%",
+                    "C": "4%",
+                    "D": "0%",
+                    "E": "2%",
+                    "K": "0%"
+                }
+            }
+        }
+    ]
+}

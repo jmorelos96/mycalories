@@ -1,0 +1,3 @@
+interface FoodList{
+    foods: Food[];
+}
